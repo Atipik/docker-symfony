@@ -1,4 +1,4 @@
-FROM marmotz/apache:php72
+FROM marmotz/apache:php73
 
 USER root
 
