@@ -1,4 +1,4 @@
-FROM marmotz/apache
+FROM meteorit/apache
 
 USER root
 
